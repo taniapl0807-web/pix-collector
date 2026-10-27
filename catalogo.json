@@ -1978,5 +1978,716 @@
     "image": "",
     "source": "Thrilljoy — pendiente de contrastar",
     "status": "Por verificar"
+  },
+  {
+    "id": "pix-0221",
+    "name": "Rocky Balboa",
+    "series": "Rocky",
+    "variant": "Hero",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0222",
+    "name": "Rocky patriotic trunks",
+    "series": "Rocky",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0223",
+    "name": "Apollo Creed",
+    "series": "Rocky",
+    "variant": "Super Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0224",
+    "name": "Rex",
+    "series": "Toy Story",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0225",
+    "name": "Sid",
+    "series": "Toy Story",
+    "variant": "Super Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0226",
+    "name": "Bugs Bunny",
+    "series": "Space Jam",
+    "variant": "Hero",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0227",
+    "name": "Taz",
+    "series": "Space Jam",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0228",
+    "name": "Nawt",
+    "series": "Space Jam",
+    "variant": "Super Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0229",
+    "name": "Danny Phantom",
+    "series": "Danny Phantom",
+    "variant": "Hero",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0230",
+    "name": "Dark Danny",
+    "series": "Danny Phantom",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0231",
+    "name": "Vlad Plasmius",
+    "series": "Danny Phantom",
+    "variant": "Super Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0232",
+    "name": "Wonder Woman (Retro)",
+    "series": "Wonder Woman",
+    "variant": "Hero",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0233",
+    "name": "Wonder Woman with cape",
+    "series": "Wonder Woman",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0234",
+    "name": "Wonder Woman black and white with cape",
+    "series": "Wonder Woman",
+    "variant": "Super Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0235",
+    "name": "Enid werewolf",
+    "series": "Wednesday",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0236",
+    "name": "Charlie",
+    "series": "Hazbin Hotel",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0237",
+    "name": "Kubo",
+    "series": "Kubo and the Two Strings",
+    "variant": "Hero",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0238",
+    "name": "Kubo with sword",
+    "series": "Kubo and the Two Strings",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0239",
+    "name": "Beetlejuice (Spike)",
+    "series": "Beetlejuice",
+    "variant": "Hero",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0240",
+    "name": "Beetlejuice carousel headdress",
+    "series": "Beetlejuice",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0241",
+    "name": "Moxxie",
+    "series": "Helluva Boss",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0242",
+    "name": "Otto Rocket",
+    "series": "Rocket Power",
+    "variant": "Hero",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0243",
+    "name": "Reggie Rocket",
+    "series": "Rocket Power",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0244",
+    "name": "Tony sunglasses and bow tie",
+    "series": "Kelloggs",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0245",
+    "name": "Regan",
+    "series": "The Exorcist",
+    "variant": "Hero",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0246",
+    "name": "Regan with green vomit and cross",
+    "series": "The Exorcist",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0247",
+    "name": "Azami",
+    "series": "Uzumaki",
+    "variant": "Hero",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0248",
+    "name": "Azami distorted eye",
+    "series": "Uzumaki",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0249",
+    "name": "Azami spiral head",
+    "series": "Uzumaki",
+    "variant": "Super Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0250",
+    "name": "Big Slammu",
+    "series": "Street Sharks",
+    "variant": "Hero",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0251",
+    "name": "Streex",
+    "series": "Street Sharks",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0252",
+    "name": "Allen the Alien",
+    "series": "Invincible",
+    "variant": "Hero",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0253",
+    "name": "Allen in red",
+    "series": "Invincible",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0254",
+    "name": "The Other Mother",
+    "series": "Coraline",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0255",
+    "name": "The Beldam",
+    "series": "Coraline",
+    "variant": "Super Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0256",
+    "name": "Stevonnie",
+    "series": "Steven Universe",
+    "variant": "Hero",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0257",
+    "name": "Lion",
+    "series": "Steven Universe",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0258",
+    "name": "Garnet",
+    "series": "Steven Universe",
+    "variant": "Super Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0259",
+    "name": "Raphael (comic style)",
+    "series": "Teenage Mutant Ninja Turtles",
+    "variant": "Hero",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0260",
+    "name": "Casey Jones",
+    "series": "Teenage Mutant Ninja Turtles",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0261",
+    "name": "Lotso",
+    "series": "Toy Story 3",
+    "variant": "Hero",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0262",
+    "name": "Chuckles",
+    "series": "Toy Story 3",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0263",
+    "name": "Chunk",
+    "series": "Toy Story 3",
+    "variant": "Super Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0264",
+    "name": "Mech Bloo",
+    "series": "Thrilljoy Bloo",
+    "variant": "Hero",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0265",
+    "name": "Mech Bloo gold",
+    "series": "Thrilljoy Bloo",
+    "variant": "Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0266",
+    "name": "Mech Bloo silver",
+    "series": "Thrilljoy Bloo",
+    "variant": "Ultra Chase",
+    "image": "",
+    "source": "Jay’s Toys — SDCC 2026 PIX checklist (distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0267",
+    "name": "Batman black glow in the dark",
+    "series": "Batman",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0268",
+    "name": "Batman Scarecrow black glow in the dark",
+    "series": "Batman",
+    "variant": "Ultra Chase",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0269",
+    "name": "Bloo as Jason",
+    "series": "Thrilljoy Bloo",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0270",
+    "name": "Bloo as Jason black",
+    "series": "Thrilljoy Bloo",
+    "variant": "Ultra Chase",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0271",
+    "name": "Bloo as Harry Potter Hufflepuff",
+    "series": "Thrilljoy Bloo",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0272",
+    "name": "Bloo as Harry Potter Ravenclaw",
+    "series": "Thrilljoy Bloo",
+    "variant": "Ultra Chase",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0273",
+    "name": "Bloo white",
+    "series": "Thrilljoy Bloo",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0274",
+    "name": "Bloo Thrilljoy outfit",
+    "series": "Thrilljoy Bloo",
+    "variant": "Ultra Chase",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0275",
+    "name": "Astro Boy silver",
+    "series": "Astro Boy",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0276",
+    "name": "Astro Boy silver half",
+    "series": "Astro Boy",
+    "variant": "Ultra Chase",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0277",
+    "name": "Batman green",
+    "series": "Batman",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0278",
+    "name": "Batman orange",
+    "series": "Batman",
+    "variant": "Chase",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0279",
+    "name": "Batman pink",
+    "series": "Batman",
+    "variant": "Ultra Chase",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0280",
+    "name": "Bloo as Art the Clown flower glasses",
+    "series": "Thrilljoy Bloo",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0281",
+    "name": "Bloo as Art the Clown black and white bloody",
+    "series": "Thrilljoy Bloo",
+    "variant": "Ultra Chase",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0282",
+    "name": "Bloo white glow in the dark",
+    "series": "Thrilljoy Bloo",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0283",
+    "name": "Bloo Thrilljoy outfit glow in the dark",
+    "series": "Thrilljoy Bloo",
+    "variant": "Ultra Chase",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0284",
+    "name": "Bloo with Beavis",
+    "series": "Thrilljoy Bloo",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0285",
+    "name": "Bloo with Butthead",
+    "series": "Thrilljoy Bloo",
+    "variant": "Ultra Chase",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0286",
+    "name": "Huckleberry Hound black and white with sword",
+    "series": "Huckleberry Hound",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0287",
+    "name": "Huckleberry Hound black and white with lasso",
+    "series": "Huckleberry Hound",
+    "variant": "Ultra Chase",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0288",
+    "name": "Redd white glow in the dark",
+    "series": "Thrilljoy",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0289",
+    "name": "Redd orange and green glow in the dark",
+    "series": "Thrilljoy",
+    "variant": "Ultra Chase",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0290",
+    "name": "Tux orange and green",
+    "series": "Thrilljoy",
+    "variant": "Ultra Chase",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0291",
+    "name": "Tux orange and green glow in the dark",
+    "series": "Thrilljoy",
+    "variant": "Ultra Chase",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0292",
+    "name": "Terrifier Clown Cafe Host black",
+    "series": "Terrifier",
+    "variant": "Ultra Chase",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0293",
+    "name": "Redd white",
+    "series": "Thrilljoy",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0294",
+    "name": "Tux white",
+    "series": "Thrilljoy",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0295",
+    "name": "Tux white glow in the dark",
+    "series": "Thrilljoy",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0296",
+    "name": "A Quiet Place Monster",
+    "series": "A Quiet Place",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0297",
+    "name": "Bloo with Scooby-Doo",
+    "series": "Thrilljoy Bloo",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0298",
+    "name": "Night King",
+    "series": "Game of Thrones",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
+  },
+  {
+    "id": "pix-0299",
+    "name": "Terrifier Clown Cafe Host",
+    "series": "Terrifier",
+    "variant": "Hero",
+    "image": "",
+    "source": "Display Geek — Florida Block Party PIX Pack 2026 (lista de distribuidor; pendiente de contraste oficial)",
+    "status": "Documentado por distribuidor; verificar con Thrilljoy"
   }
 ]
